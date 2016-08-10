@@ -49,3 +49,7 @@ test_features = test['data'].reshape(test['data'].shape[0],
                                      3, 32, 32)
 test_labels = np.array(test['labels'], dtype=np.uint8)
 test_labels = np.expand_dims(test_labels, 1)
+
+# Helps with writing functions!
+msg = lambda x: print("%s ... " % x, end="")
+done = lambda: print("done.")
