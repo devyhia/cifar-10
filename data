@@ -1,0 +1,71 @@
+/home/devyhia/.pyenv/versions/3.4.3/lib/python3.4/site-packages/sklearn/svm/base.py:224: ConvergenceWarning: Solver terminated early (max_iter=2).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  % self.max_iter, ConvergenceWarning)
+[SVM SVC 2] Training ... done.
+[SVM SVC 2] Training Accuracy ... 0.10038 ... done.
+[SVM SVC 2] Testing Accuracy ... 0.1 ... done.
+/home/devyhia/.pyenv/versions/3.4.3/lib/python3.4/site-packages/sklearn/svm/base.py:224: ConvergenceWarning: Solver terminated early (max_iter=3).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  % self.max_iter, ConvergenceWarning)
+[SVM SVC 3] Training ... done.
+[SVM SVC 3] Training Accuracy ... 0.10056 ... done.
+[SVM SVC 3] Testing Accuracy ... 0.1 ... done.
+/home/devyhia/.pyenv/versions/3.4.3/lib/python3.4/site-packages/sklearn/svm/base.py:224: ConvergenceWarning: Solver terminated early (max_iter=4).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  % self.max_iter, ConvergenceWarning)
+[SVM SVC 4] Training ... done.
+[SVM SVC 4] Training Accuracy ... 0.10074 ... done.
+[SVM SVC 4] Testing Accuracy ... 0.1 ... done.
+/home/devyhia/.pyenv/versions/3.4.3/lib/python3.4/site-packages/sklearn/svm/base.py:224: ConvergenceWarning: Solver terminated early (max_iter=5).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  % self.max_iter, ConvergenceWarning)
+[SVM SVC 5] Training ... done.
+[SVM SVC 5] Training Accuracy ... 0.10094 ... done.
+[SVM SVC 5] Testing Accuracy ... 0.1 ... done.
+/home/devyhia/.pyenv/versions/3.4.3/lib/python3.4/site-packages/sklearn/svm/base.py:224: ConvergenceWarning: Solver terminated early (max_iter=6).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  % self.max_iter, ConvergenceWarning)
+[SVM SVC 6] Training ... done.
+[SVM SVC 6] Training Accuracy ... 0.10114 ... done.
+[SVM SVC 6] Testing Accuracy ... 0.1 ... done.
+/home/devyhia/.pyenv/versions/3.4.3/lib/python3.4/site-packages/sklearn/svm/base.py:224: ConvergenceWarning: Solver terminated early (max_iter=7).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  % self.max_iter, ConvergenceWarning)
+[SVM SVC 7] Training ... done.
+^C[SVM SVC 7] Training Accuracy ... Traceback (most recent call last):
+  File "svm_train.py", line 39, in <module>
+    SVM_SVC(itr=i)
+  File "svm_train.py", line 29, in SVM_SVC
+    X_pred = svc.predict(X)
+  File "/home/devyhia/.pyenv/versions/3.4.3/lib/python3.4/site-packages/sklearn/svm/base.py", line 568, in predict
+    y = super(BaseSVC, self).predict(X)
+  File "/home/devyhia/.pyenv/versions/3.4.3/lib/python3.4/site-packages/sklearn/svm/base.py", line 307, in predict
+    return predict(X)
+  File "/home/devyhia/.pyenv/versions/3.4.3/lib/python3.4/site-packages/sklearn/svm/base.py", line 330, in _dense_predict
+    cache_size=self.cache_size)
+KeyboardInterrupt
+devyhia@devyhia-desktop:~/cifar-10$ python svm_train.py
+/home/devyhia/.pyenv/versions/3.4.3/lib/python3.4/site-packages/sklearn/svm/base.py:224: ConvergenceWarning: Solver terminated early (max_iter=100).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  % self.max_iter, ConvergenceWarning)
+[SVM SVC 100] Training ... done.
+[SVM SVC 100] Training Accuracy ... 0.12302 ... done.
+[SVM SVC 100] Testing Accuracy ... 0.1053 ... done.
+/home/devyhia/.pyenv/versions/3.4.3/lib/python3.4/site-packages/sklearn/svm/base.py:224: ConvergenceWarning: Solver terminated early (max_iter=500).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  % self.max_iter, ConvergenceWarning)
+[SVM SVC 500] Training ... done.
+[SVM SVC 500] Training Accuracy ... 0.20292 ... done.
+[SVM SVC 500] Testing Accuracy ... 0.1146 ... done.
+/home/devyhia/.pyenv/versions/3.4.3/lib/python3.4/site-packages/sklearn/svm/base.py:224: ConvergenceWarning: Solver terminated early (max_iter=1000).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  % self.max_iter, ConvergenceWarning)
+[SVM SVC 1000] Training ... done.
+[SVM SVC 1000] Training Accuracy ... 0.29582 ... done.
+[SVM SVC 1000] Testing Accuracy ... 0.1207 ... done.
+/home/devyhia/.pyenv/versions/3.4.3/lib/python3.4/site-packages/sklearn/svm/base.py:224: ConvergenceWarning: Solver terminated early (max_iter=2000).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  % self.max_iter, ConvergenceWarning)
+[SVM SVC 2000] Training ... done.
+[SVM SVC 2000] Training Accuracy ... 0.47636 ... done.
+[SVM SVC 2000] Testing Accuracy ... 0.1298 ... done.
+/home/devyhia/.pyenv/versions/3.4.3/lib/python3.4/site-packages/sklearn/svm/base.py:224: ConvergenceWarning: Solver terminated early (max_iter=3000).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  % self.max_iter, ConvergenceWarning)
+[SVM SVC 3000] Training ... done.
+[SVM SVC 3000] Training Accuracy ... 0.65352 ... done.
+[SVM SVC 3000] Testing Accuracy ... 0.1372 ... done.
+[SVM SVC -1] Training ... done.
+[SVM SVC -1] Training Accuracy ... 1.0 ... done.
+[SVM SVC -1] Testing Accuracy ... 0.1477 ... done.
+devyhia@devyhia-desktop:~/cifar-10$ ^C
+devyhia@devyhia-desktop:~/cifar-10$
