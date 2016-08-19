@@ -1,0 +1,12 @@
+RUN mkdir /opencv/build
+WORKDIR /opencv/build
+RUN cmake \
+    -D CMAKE_BUILD_TYPE=RELEASE \
+    -D CMAKE_INSTALL_PREFIX=/usr/local \
+    ..
+RUN make -j$NUM_CORES
+RUN make install
+
+RUN ldconfig
+# Define default command.
+CMD ["bash"]
