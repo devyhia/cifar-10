@@ -1,7 +1,7 @@
 FROM ubuntu:14.04
 
 #3.4.3
-ENV PYTHON_VERSION 3.4
+ENV PYTHON_VERSION 2.7
 ENV NUM_CORES 4
 
 # Install OpenCV 3.0
@@ -26,5 +26,16 @@ RUN make -j$NUM_CORES
 RUN make install
 
 RUN ldconfig
-# Define default command.
-CMD ["bash"]
+
+RUN pip install jupyter
+RUN pip install notebook
+RUN pip install pandas
+RUN pip install scikit-learn
+RUN pip install scipy
+RUN pip install seaborn
+RUN pip install six
+RUN pip install h5py
+
+RUN apt-get -y install python-tk
+
+EXPOSE 8888
