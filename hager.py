@@ -8,7 +8,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # ### Load Training Data
-tar_file = tarfile.open("/home/hagar13/Downloads/cifar-10-python.tar.gz", 'r:gz')
+tar_file = tarfile.open("cifar-10-python.tar.gz", 'r:gz')
 train_batches = []
 for batch in range(1, 6):
     file = tar_file.extractfile(

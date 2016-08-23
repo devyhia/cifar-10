@@ -1,3 +1,8 @@
 app:
   build: .
-  
+  ports:
+    - "8888:8888"
+  volumes:
+    - .:/app
+  working_dir: /app
+  command: sh -c "jupyter notebook --ip 0.0.0.0"
