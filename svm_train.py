@@ -20,17 +20,17 @@ def SVM_SVC(itr=1, _X=None, _Xt=None):
     if _Xt is None:
         _Xt = Xt
 
-    msg("[SVM SVC %d] Training" % itr)
-    svc = svm.SVC(max_iter=itr)
+    msg("[SVM POLY %d] Training" % itr)
+    svc = svm.SVC(max_iter=itr, kernel='poly')
     svc.fit(X, y)
     done()
 
-    msg("[SVM SVC %d] Training Accuracy" % itr)
+    msg("[SVM POLY %d] Training Accuracy" % itr)
     X_pred = svc.predict(X)
     msg(metrics.accuracy_score(y, X_pred))
     done()
 
-    msg("[SVM SVC %d] Testing Accuracy" % itr)
+    msg("[SVM POLY %d] Testing Accuracy" % itr)
     Xt_pred = svc.predict(Xt)
     msg(metrics.accuracy_score(yt, Xt_pred))
     done()

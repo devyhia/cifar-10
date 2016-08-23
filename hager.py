@@ -1,7 +1,7 @@
 import os
 import h5py
 import six
-import cv2
+import opencv2 as cv2
 from six.moves import range, cPickle
 import tarfile
 import numpy as np
