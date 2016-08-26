@@ -35,5 +35,27 @@ def SVM_SVC(itr=1, _X=None, _Xt=None):
     msg(metrics.accuracy_score(yt, Xt_pred))
     done()
 
-for i in [100,500,1000,2000,3000,-1]:
-    SVM_SVC(itr=i)
+def SVM_SVC_SIG(_X=None, _Xt=None, I=2):
+    if _X is None:
+        _X = X
+
+    if _Xt is None:
+        _Xt = Xt
+
+    msg("[SVM SIG %d] Training" %I)
+    svc = svm.SVC(kernel='sigmoid', max_iter=I)
+    svc.fit(X, y)
+    done()
+
+    msg("[SVM SIG %d] Training Accuracy"%I)
+    X_pred = svc.predict(X)
+    msg(metrics.accuracy_score(y, X_pred))
+    done()
+
+    msg("[SVM SIG %d] Testing Accuracy"%I)
+    Xt_pred = svc.predict(Xt)
+    msg(metrics.accuracy_score(yt, Xt_pred))
+    done()
+
+for i in [500,1000,2000,3000,-1]:
+    SVM_SVC_SIG(I=i)
