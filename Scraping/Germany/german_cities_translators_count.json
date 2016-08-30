@@ -1,0 +1,2046 @@
+,city,translators_count,error
+0,Aach,0,True
+1,Aachen,45,False
+2,Aalen,4,False
+3,Abenberg,1,False
+4,Abensberg,4,False
+5,Achern,3,False
+6,Achim,1,False
+7,Adelsheim,0,True
+8,Adenau,0,True
+9,Adorf,2,False
+10,Ahaus,1,False
+11,Ahlen,3,False
+12,Ahrensburg,14,False
+13,Aichach,1,False
+14,Aichtal,0,True
+15,Aken,0,True
+16,Albstadt,3,False
+17,Alfeld,1,False
+18,Allendorf,1,False
+19,Allstedt,0,True
+20,Alpirsbach,2,False
+21,Alsdorf,3,False
+22,Alsfeld,0,True
+23,Alsleben,0,True
+24,Altdorf bei Nürnberg,0,True
+25,Altena,3,False
+26,Altenberg,2,False
+27,Altenburg,3,False
+28,Altenkirchen,0,True
+29,Altensteig,1,False
+30,Altentreptow,0,True
+31,Altlandsberg,2,False
+32,Altötting,0,True
+33,Alzenau,6,False
+34,Alzey,4,False
+35,Amberg,3,False
+36,Amöneburg,0,True
+37,Amorbach,1,False
+38,Andernach,7,False
+39,Angermünde,0,True
+40,Anklam,0,True
+41,Annaberg-Buchholz,2,False
+42,Annaburg,0,True
+43,Annweiler am Trifels,0,True
+44,Ansbach,5,False
+45,Apolda,2,False
+46,Arendsee,0,True
+47,Arneburg,0,True
+48,Arnis,0,True
+49,Arnsberg,2,False
+50,Arnstadt,1,False
+51,Arnstein,3,False
+52,Arnstein,3,False
+53,Artern/Unstrut,0,True
+54,Arzberg,1,False
+55,Aschaffenburg,17,False
+56,Aschersleben,0,True
+57,Asperg,4,False
+58,Aßlar,0,True
+59,Attendorn,2,False
+60,Aub,3,False
+61,Aue,4,False
+62,Auerbach in der Oberpfalz,0,True
+63,Auerbach,3,False
+64,Augsburg,54,False
+65,Augustusburg,1,False
+66,Aulendorf,0,True
+67,Auma-Weidatal,3,False
+68,Aurich,5,False
+69,Babenhausen,3,False
+70,Bacharach,0,True
+71,Backnang,5,False
+72,Bad Aibling,0,True
+73,Bad Arolsen,0,True
+74,Bad Belzig,0,True
+75,Bad Bentheim,0,True
+76,Bad Bergzabern,0,True
+77,Bad Berka,0,True
+78,Bad Berleburg,0,True
+79,Bad Berneck im Fichtelgebirge,0,True
+80,Bad Bevensen,0,True
+81,Bad Bibra,0,True
+82,Bad Blankenburg,0,True
+83,Bad Bramstedt,0,True
+84,Bad Breisig,0,True
+85,Bad Brückenau,0,True
+86,Bad Buchau,0,True
+87,Bad Camberg,0,True
+88,Bad Colberg-Heldburg,0,True
+89,Bad Doberan,0,True
+90,Bad Driburg,0,True
+91,Bad Düben,0,True
+92,Bad Dürkheim,0,True
+93,Bad Dürrenberg,0,True
+94,Bad Dürrheim,0,True
+95,Bad Elster,0,True
+96,Bad Ems,0,True
+97,Bad Fallingbostel,0,True
+98,Bad Frankenhausen/Kyffhäuser,0,True
+99,Bad Freienwalde,0,True
+100,Bad Friedrichshall,0,True
+101,Bad Gandersheim,0,True
+102,Bad Gottleuba-Berggießhübel,0,True
+103,Bad Griesbach im Rottal,0,True
+104,Bad Harzburg,0,True
+105,Bad Herrenalb,0,True
+106,Bad Hersfeld,0,True
+107,Bad Homburg vor der Höhe,0,True
+108,Bad Honnef,0,True
+109,Bad Hönningen,0,True
+110,Bad Iburg,0,True
+111,Bad Karlshafen,0,True
+112,Bad Kissingen,0,True
+113,Bad König,0,True
+114,Bad Königshofen im Grabfeld,0,True
+115,Bad Köstritz,0,True
+116,Bad Kötzting,0,True
+117,Bad Kreuznach,0,True
+118,Bad Krozingen,0,True
+119,Bad Laasphe,0,True
+120,Bad Langensalza,0,True
+121,Bad Lauchstädt,0,True
+122,Bad Lausick,0,True
+123,Bad Lauterberg im Harz,0,True
+124,Bad Liebenstein,0,True
+125,Bad Liebenwerda,0,True
+126,Bad Liebenzell,0,True
+127,Bad Lippspringe,0,True
+128,Bad Lobenstein,0,True
+129,Bad Marienberg,0,True
+130,Bad Mergentheim,0,True
+131,Bad Münder am Deister,0,True
+132,Bad Münstereifel,0,True
+133,Bad Muskau,0,True
+134,Bad Nauheim,0,True
+135,Bad Nenndorf,0,True
+136,Bad Neuenahr-Ahrweiler,0,True
+137,Bad Neustadt an der Saale,0,True
+138,Bad Oeynhausen,0,True
+139,Bad Oldesloe,0,True
+140,Bad Orb,0,True
+141,Bad Pyrmont,0,True
+142,Bad Rappenau,0,True
+143,Bad Reichenhall,0,True
+144,Bad Rodach,0,True
+145,Bad Sachsa,0,True
+146,Bad Säckingen,0,True
+147,Bad Salzdetfurth,0,True
+148,Bad Salzuflen,0,True
+149,Bad Salzungen,0,True
+150,Bad Saulgau,0,True
+151,Bad Schandau,0,True
+152,Bad Schmiedeberg,0,True
+153,Bad Schussenried,0,True
+154,Bad Schwalbach,0,True
+155,Bad Schwartau,0,True
+156,Bad Segeberg,0,True
+157,Bad Sobernheim,0,True
+158,Bad Soden am Taunus,0,True
+159,Bad Soden-Salmünster,0,True
+160,Bad Sooden-Allendorf,0,True
+161,Bad Staffelstein,0,True
+162,Bad Sulza,0,True
+163,Bad Sülze,0,True
+164,Bad Teinach-Zavelstein,0,True
+165,Bad Tennstedt,0,True
+166,Bad Tölz,0,True
+167,Bad Urach,0,True
+168,Bad Vilbel,0,True
+169,Bad Waldsee,0,True
+170,Bad Wildbad,0,True
+171,Bad Wildungen,0,True
+172,Bad Wilsnack,0,True
+173,Bad Wimpfen,0,True
+174,Bad Windsheim,0,True
+175,Bad Wörishofen,0,True
+176,Bad Wünnenberg,0,True
+177,Bad Wurzach,0,True
+178,Baden-Baden,21,False
+179,Baesweiler,0,True
+180,Baiersdorf,7,False
+181,Balingen,3,False
+182,Ballenstedt,0,True
+183,Balve,3,False
+184,Bamberg,14,False
+185,Barby,0,True
+186,Bargteheide,3,False
+187,Barmstedt,0,True
+188,Bärnau,0,True
+189,Barntrup,1,False
+190,Barsinghausen,2,False
+191,Barth,1,False
+192,Baruth/Mark,0,True
+193,Bassum,1,False
+194,Battenberg,0,True
+195,Baumholder,0,True
+196,Baunach,5,False
+197,Baunatal,3,False
+198,Bautzen,6,False
+199,Bayreuth,14,False
+200,Bebra,0,True
+201,Beckum,2,False
+202,Bedburg,1,False
+203,Beelitz,3,False
+204,Beerfelden,1,False
+205,Beeskow,1,False
+206,Beilngries,0,True
+207,Beilstein,4,False
+208,Belgern-Schildau,1,False
+209,Bendorf,0,True
+210,Bensheim,8,False
+211,Berching,1,False
+212,Berga/Elster,0,True
+213,Bergen,2,False
+214,Bergen auf Rügen,0,True
+215,Bergheim,6,False
+216,Bergisch Gladbach,0,True
+217,Bergkamen,1,False
+218,Bergneustadt,0,True
+219,Berka/Werra,0,True
+220,Berlin,523,False
+221,Bernau bei Berlin,0,True
+222,Bernburg,0,True
+223,Bernkastel-Kues,0,True
+224,Bernsdorf,1,False
+225,Bernstadt a. d. Eigen,0,True
+226,Bersenbrück,0,True
+227,Bertkow,0,True
+228,Besigheim,1,False
+229,Betzdorf,0,True
+230,Betzenstein,1,False
+231,Beverungen,1,False
+232,Bexbach,0,True
+233,Biberach an der Riß,0,True
+234,Biedenkopf,0,True
+235,Bielefeld,46,False
+236,Bierstedt,0,True
+237,Biesenthal,1,False
+238,Bietigheim-Bissingen,2,False
+239,Billerbeck,3,False
+240,Bingen am Rhein,0,True
+241,Birkenfeld,0,True
+242,Bischofsheim an der Rhön,0,True
+243,Bischofswerda,2,False
+244,Bismark,0,True
+245,Bitburg,3,False
+246,Bitterfeld-Wolfen,3,False
+247,Blankenburg,0,True
+248,Blankenhain,2,False
+249,Blaubeuren,1,False
+250,Blaustein,1,False
+251,Bleckede,2,False
+252,Bleicherode,1,False
+253,Blieskastel,4,False
+254,Blomberg,0,True
+255,Blumberg,1,False
+256,Bobingen,5,False
+257,Böblingen,0,True
+258,Bocholt,6,False
+259,Bochum,32,False
+260,Bockenem,0,True
+261,Bodenwerder,0,True
+262,Bogen,3,False
+263,Böhlen,0,True
+264,Boizenburg/ Elbe,0,True
+265,Bonese,0,True
+266,Bonn,77,False
+267,Bonndorf im Schwarzwald,0,True
+268,Bönnigheim,0,True
+269,Bopfingen,0,True
+270,Boppard,0,True
+271,Borgentreich,0,True
+272,Borgholzhausen,3,False
+273,Borken,2,False
+274,Borken,2,False
+275,Borkum,0,True
+276,Borna,0,True
+277,Bornheim,5,False
+278,Bottrop,10,False
+279,Boxberg,1,False
+280,Brackenheim,1,False
+281,Brake,4,False
+282,Brakel,0,True
+283,Bramsche,6,False
+284,Brandenburg an der Havel,0,True
+285,Brand-Erbisdorf,2,False
+286,Brandis,1,False
+287,Braubach,0,True
+288,Braunfels,1,False
+289,Braunlage,0,True
+290,Bräunlingen,0,True
+291,Braunsbedra,0,True
+292,Braunschweig,45,False
+293,Breckerfeld,4,False
+294,Bredstedt,0,True
+295,Breisach,1,False
+296,Bremen,79,False
+297,Bremerhaven,8,False
+298,Bremervörde,0,True
+299,Bretten,3,False
+300,Breuberg,0,True
+301,Brilon,1,False
+302,Brotterode-Trusetal,2,False
+303,Bruchköbel,0,True
+304,Bruchsal,8,False
+305,Brück,0,True
+306,Brüel,0,True
+307,Brühl,0,True
+308,Brunsbüttel,0,True
+309,Brüssow,0,True
+310,Buchen,1,False
+311,Buchholz in der Nordheide,0,True
+312,Buchloe,2,False
+313,Bückeburg,0,True
+314,Buckow,1,False
+315,Büdelsdorf,0,True
+316,Büdingen,0,True
+317,Bühl,0,True
+318,Bünde,0,True
+319,Büren,0,True
+320,Burg,0,True
+321,Burgau,0,True
+322,Burgbernheim,1,False
+323,Burgdorf,2,False
+324,Bürgel,0,True
+325,Burghausen,3,False
+326,Burgkunstadt,5,False
+327,Burglengenfeld,6,False
+328,Burgstädt,0,True
+329,Burg Stargard,0,True
+330,Burgwedel,5,False
+331,Burladingen,0,True
+332,Burscheid,1,False
+333,Bürstadt,0,True
+334,Buttelstedt,3,False
+335,Buttstädt,0,True
+336,Butzbach,2,False
+337,Bützow,0,True
+338,Buxtehude,5,False
+339,Calau,0,True
+340,Calbe,0,True
+341,Calw,2,False
+342,Castrop-Rauxel,2,False
+343,Celle,11,False
+344,Cham,2,False
+345,Chemnitz,44,False
+346,Clausthal-Zellerfeld,0,True
+347,Clingen,2,False
+348,Cloppenburg,5,False
+349,Coburg,9,False
+350,Cochem,1,False
+351,Coesfeld,2,False
+352,Colditz,3,False
+353,Cologne,0,True
+354,Coswig,6,False
+355,Coswig,6,False
+356,Cottbus,11,False
+357,Crailsheim,1,False
+358,Creglingen,1,False
+359,Creußen,0,True
+360,Creuzburg,1,False
+361,Crimmitschau,3,False
+362,Crivitz,1,False
+363,Cuxhaven,2,False
+364,Dachau,7,False
+365,Dahlen,0,True
+366,Dahme/Mark,0,True
+367,Dahn,0,True
+368,Damme,5,False
+369,Dannenberg,3,False
+370,Dargun,0,True
+371,Darmstadt,40,False
+372,Dassel,0,True
+373,Dassow,3,False
+374,Datteln,2,False
+375,Daun,1,False
+376,Deggendorf,4,False
+377,Deidesheim,0,True
+378,Delbrück,0,True
+379,Delitzsch,1,False
+380,Delmenhorst,6,False
+381,Demmin,0,True
+382,Dessau-Roßlau,0,True
+383,Detmold,10,False
+384,Dettelbach,4,False
+385,Dieburg,6,False
+386,Diemelstadt,0,True
+387,Diepholz,2,False
+388,Dierdorf,0,True
+389,Dietenheim,1,False
+390,Dietfurt an der Altmühl,0,True
+391,Dietzenbach,3,False
+392,Diez,2,False
+393,Dillenburg,1,False
+394,Dillingen an der Donau,0,True
+395,Dillingen/Saar,0,True
+396,Dingelstädt,0,True
+397,Dingolfing,2,False
+398,Dinkelsbühl,0,True
+399,Dinklage,1,False
+400,Dinslaken,4,False
+401,Dippoldiswalde,3,False
+402,Dissen am Teutoburger Wald,0,True
+403,Ditzingen,3,False
+404,Döbeln,0,True
+405,Doberlug-Kirchhain,0,True
+406,Döbern,0,True
+407,Dohna,4,False
+408,Dömitz,0,True
+409,Dommitzsch,0,True
+410,Donaueschingen,0,True
+411,Donauwörth,0,True
+412,Donzdorf,0,True
+413,Dorfen,1,False
+414,Dormagen,9,False
+415,Dornburg-Camburg,4,False
+416,Dornhan,0,True
+417,Dornstetten,0,True
+418,Dorsten,5,False
+419,Dortmund,98,False
+420,Dransfeld,1,False
+421,Drebkau,0,True
+422,Dreieich,3,False
+423,Drensteinfurt,3,False
+424,Dresden,75,False
+425,Drolshagen,1,False
+426,Duderstadt,3,False
+427,Duisburg,38,False
+428,Dülmen,0,True
+429,Düren,0,True
+430,Düsseldorf,0,True
+431,Ebeleben,2,False
+432,Eberbach,2,False
+433,Ebermannstadt,3,False
+434,Ebern,8,False
+435,Ebersbach an der Fils,0,True
+436,Ebersbach-Neugersdorf,1,False
+437,Ebersberg,6,False
+438,Eberswalde,4,False
+439,Eckartsberga,2,False
+440,Eckernförde,0,True
+441,Edenkoben,2,False
+442,Egeln,0,True
+443,Eggenfelden,1,False
+444,Eggesin,0,True
+445,Ehingen,1,False
+446,Ehrenfriedersdorf,2,False
+447,Eibelstadt,6,False
+448,Eibenstock,3,False
+449,Eichstätt,0,True
+450,Eilenburg,2,False
+451,Einbeck,0,True
+452,Eisenach,8,False
+453,Eisenberg,2,False
+454,Eisenberg,2,False
+455,Eisenhüttenstadt,0,True
+456,Eisfeld,3,False
+457,Eisleben,0,True
+458,Eislingen/Fils,0,True
+459,Ellingen,0,True
+460,Ellrich,0,True
+461,Ellwangen,3,False
+462,Elmshorn,4,False
+463,Elsdorf,0,True
+464,Elsfleth,3,False
+465,Elsterberg,3,False
+466,Elsterwerda,1,False
+467,Elstra,1,False
+468,Elterlein,3,False
+469,Eltmann,4,False
+470,Eltville am Rhein,0,True
+471,Elzach,0,True
+472,Elze,0,True
+473,Emden,0,True
+474,Emmelshausen,0,True
+475,Emmendingen,5,False
+476,Emmerich am Rhein,0,True
+477,Emsdetten,5,False
+478,Endingen,2,False
+479,Engen,0,True
+480,Enger,6,False
+481,Ennepetal,4,False
+482,Ennigerloh,3,False
+483,Eppelheim,6,False
+484,Eppingen,1,False
+485,Eppstein,2,False
+486,Erbach,1,False
+487,Erbach,1,False
+488,Erbendorf,1,False
+489,Erding,9,False
+490,Erftstadt,1,False
+491,Erfurt,30,False
+492,Erkelenz,1,False
+493,Erkner,2,False
+494,Erkrath,7,False
+495,Erlangen,36,False
+496,Erlenbach am Main,0,True
+497,Erlensee,0,True
+498,Erwitte,0,True
+499,Eschborn,4,False
+500,Eschenbach in der Oberpfalz,0,True
+501,Eschershausen,0,True
+502,Eschwege,0,True
+503,Eschweiler,5,False
+504,Esens,1,False
+505,Espelkamp,4,False
+506,Essen,72,False
+507,Esslingen am Neckar,0,True
+508,Ettenheim,2,False
+509,Ettlingen,8,False
+510,Euskirchen,21,False
+511,Eutin,0,True
+512,Falkenberg/Elster,0,True
+513,Falkensee,3,False
+514,Falkenstein/Harz,0,True
+515,Falkenstein/Vogtl.,0,True
+516,Fehmarn,0,True
+517,Fellbach,2,False
+518,Felsberg,1,False
+519,Feuchtwangen,2,False
+520,Filderstadt,6,False
+521,Finsterwalde,0,True
+522,Fladungen,0,True
+523,Flensburg,16,False
+524,Flöha,0,True
+525,Flörsheim am Main,0,True
+526,Florstadt,0,True
+527,Forchheim,10,False
+528,Forchtenberg,0,True
+529,Forst,1,False
+530,Frankenau,0,True
+531,Frankenberg,1,False
+532,Frankenberg/Sa.,0,True
+533,Frankenthal,2,False
+534,Frankfurt am Main,0,True
+535,Frankfurt,214,False
+536,Franzburg,1,False
+537,Frauenstein,3,False
+538,Frechen,4,False
+539,Freiberg am Neckar,0,True
+540,Freiberg,6,False
+541,Freiburg im Breisgau,0,True
+542,Freilassing,4,False
+543,Freinsheim,3,False
+544,Freising,9,False
+545,Freital,7,False
+546,Freren,0,True
+547,Freudenberg,1,False
+548,Freudenberg,1,False
+549,Freudenstadt,0,True
+550,Freyburg,0,True
+551,Freystadt,2,False
+552,Freyung,1,False
+553,Fridingen an der Donau,0,True
+554,Friedberg,8,False
+555,Friedberg,8,False
+556,Friedland,0,True
+557,Friedland,0,True
+558,Friedrichroda,2,False
+559,Friedrichsdorf,2,False
+560,Friedrichshafen,7,False
+561,Friedrichstadt,0,True
+562,Friedrichsthal,0,True
+563,Friesack,0,True
+564,Friesoythe,1,False
+565,Fritzlar,2,False
+566,Frohburg,2,False
+567,Fröndenberg,0,True
+568,Fulda,5,False
+569,Fürstenau,0,True
+570,Fürstenberg/Havel,0,True
+571,Fürstenfeldbruck,0,True
+572,Fürstenwalde,0,True
+573,Fürth,0,True
+574,Furth im Wald,0,True
+575,Furtwangen im Schwarzwald,0,True
+576,Füssen,0,True
+577,Gadebusch,3,False
+578,Gaggenau,3,False
+579,Gaildorf,0,True
+580,Gammertingen,0,True
+581,Garbsen,2,False
+582,Garching bei München,0,True
+583,Gardelegen,1,False
+584,Garding,0,True
+585,Gartz,1,False
+586,Garz/Rügen,0,True
+587,Gau-Algesheim,0,True
+588,Gebesee,4,False
+589,Gedern,0,True
+590,Geesthacht,2,False
+591,Geestland,3,False
+592,Gefell,2,False
+593,Gefrees,4,False
+594,Gehrden,3,False
+595,Gehren,1,False
+596,Geilenkirchen,1,False
+597,Geisa,1,False
+598,Geiselhöring,0,True
+599,Geisenfeld,1,False
+600,Geisenheim,1,False
+601,Geisingen,0,True
+602,Geislingen,3,False
+603,Geislingen an der Steige,0,True
+604,Geithain,2,False
+605,Geldern,4,False
+606,Gelnhausen,2,False
+607,Gelsenkirchen,15,False
+608,Gemünden am Main,0,True
+609,Gemünden,0,True
+610,Gengenbach,0,True
+611,Genthin,0,True
+612,Georgsmarienhütte,0,True
+613,Gera,8,False
+614,Gerabronn,0,True
+615,Gerbstedt,0,True
+616,Geretsried,2,False
+617,Geringswalde,1,False
+618,Gerlingen,0,True
+619,Germering,5,False
+620,Germersheim,26,False
+621,Gernsbach,3,False
+622,Gernsheim,3,False
+623,Gerolstein,0,True
+624,Gerolzhofen,5,False
+625,Gersfeld,0,True
+626,Gersthofen,3,False
+627,Gescher,1,False
+628,Geseke,0,True
+629,Gevelsberg,6,False
+630,Geyer,2,False
+631,Giengen an der Brenz,0,True
+632,Gießen,0,True
+633,Gifhorn,0,True
+634,Ginsheim-Gustavsburg,1,False
+635,Gladbeck,5,False
+636,Gladenbach,0,True
+637,Glashütte,0,True
+638,Glauchau,4,False
+639,Glinde,2,False
+640,Glücksburg,0,True
+641,Glückstadt,0,True
+642,Gnoien,0,True
+643,Goch,3,False
+644,Goldberg,1,False
+645,Goldkronach,6,False
+646,Golßen,0,True
+647,Gommern,1,False
+648,Göppingen,0,True
+649,Görlitz,0,True
+650,Goslar,2,False
+651,Gößnitz,0,True
+652,Gotha,7,False
+653,Göttingen,0,True
+654,Grabow,1,False
+655,Grafenau,1,False
+656,Gräfenberg,0,True
+657,Gräfenhainichen,0,True
+658,Gräfenthal,0,True
+659,Grafenwöhr,0,True
+660,Grafing bei München,0,True
+661,Gransee,0,True
+662,Grebenau,0,True
+663,Grebenstein,0,True
+664,Greding,1,False
+665,Greifswald,0,True
+666,Greiz,4,False
+667,Greußen,0,True
+668,Greven,5,False
+669,Grevenbroich,4,False
+670,Grevesmühlen,0,True
+671,Griesheim,0,True
+672,Grimma,4,False
+673,Grimmen,1,False
+674,Gröditz,0,True
+675,Groitzsch,1,False
+676,Gronau,2,False
+677,Gronau,2,False
+678,Gröningen,0,True
+679,Großalmerode,0,True
+680,Groß-Bieberau,0,True
+681,Großbottwar,0,True
+682,Großbreitenbach,0,True
+683,Großenehrich,0,True
+684,Großenhain,0,True
+685,Groß-Gerau,0,True
+686,Großräschen,0,True
+687,Großröhrsdorf,0,True
+688,Großschirma,0,True
+689,Groß-Umstadt,0,True
+690,Grünberg,0,True
+691,Grünhain-Beierfeld,0,True
+692,Grünsfeld,0,True
+693,Grünstadt,0,True
+694,Guben,0,True
+695,Gudensberg,0,True
+696,Güglingen,0,True
+697,Gummersbach,9,False
+698,Gundelfingen an der Donau,0,True
+699,Gundelsheim,0,True
+700,Günzburg,0,True
+701,Gunzenhausen,2,False
+702,Güsten,0,True
+703,Güstrow,0,True
+704,Gütersloh,0,True
+705,Gützkow,0,True
+706,Haan,9,False
+707,Hachenburg,2,False
+708,Hadamar,1,False
+709,Hagen,21,False
+710,Hagenbach,0,True
+711,Hagenow,1,False
+712,Haiger,0,True
+713,Haigerloch,1,False
+714,Hainichen,1,False
+715,Haiterbach,0,True
+716,Halberstadt,2,False
+717,Haldensleben,1,False
+718,Halle,36,False
+719,Halle,36,False
+720,Hallenberg,0,True
+721,Hallstadt,5,False
+722,Haltern am See,0,True
+723,Halver,2,False
+724,Hamburg,341,False
+725,Hameln,10,False
+726,Hamm,14,False
+727,Hammelburg,1,False
+728,Hamminkeln,1,False
+729,Hanau,14,False
+730,Hann. Münden,0,True
+731,Hanover,0,True
+732,Harburg,0,True
+733,Hardegsen,1,False
+734,Haren,1,False
+735,Harsewinkel,2,False
+736,Hartenstein,2,False
+737,Hartha,1,False
+738,Harzgerode,0,True
+739,Haselünne,0,True
+740,Haslach im Kinzigtal,0,True
+741,Haßfurt,0,True
+742,Hattersheim am Main,0,True
+743,Hattingen,3,False
+744,Hatzfeld,0,True
+745,Hausach,1,False
+746,Hauzenberg,1,False
+747,Havelberg,0,True
+748,Havelsee,3,False
+749,Hayingen,0,True
+750,Hechingen,0,True
+751,Hecklingen,0,True
+752,Heide,0,True
+753,Heideck,2,False
+754,Heidelberg,125,False
+755,Heidenau,4,False
+756,Heidenheim an der Brenz,0,True
+757,Heilbad Heiligenstadt,0,True
+758,Heilbronn,18,False
+759,Heiligenhafen,0,True
+760,Heiligenhaus,3,False
+761,Heilsbronn,2,False
+762,Heimbach,0,True
+763,Heimsheim,0,True
+764,Heinsberg,4,False
+765,Heitersheim,0,True
+766,Heldrungen,1,False
+767,Helmbrechts,3,False
+768,Helmstedt,1,False
+769,Hemau,3,False
+770,Hemer,2,False
+771,Hemmingen,0,True
+772,Hemmoor,0,True
+773,Hemsbach,2,False
+774,Hennef,3,False
+775,Hennigsdorf,3,False
+776,Heppenheim,2,False
+777,Herbolzheim,0,True
+778,Herborn,1,False
+779,Herbrechtingen,0,True
+780,Herbstein,0,True
+781,Herdecke,4,False
+782,Herdorf,0,True
+783,Herford,13,False
+784,Heringen/Helme,0,True
+785,Heringen,3,False
+786,Hermeskeil,2,False
+787,Hermsdorf,2,False
+788,Herne,7,False
+789,Herrenberg,6,False
+790,Herrieden,1,False
+791,Herrnhut,1,False
+792,Hersbruck,4,False
+793,Herten,2,False
+794,Herzberg am Harz,0,True
+795,Herzberg,0,True
+796,Herzogenaurach,10,False
+797,Herzogenrath,6,False
+798,Hessisch Lichtenau,0,True
+799,Hessisch Oldendorf,0,True
+800,Hettingen,0,True
+801,Hettstedt,0,True
+802,Heubach,0,True
+803,Heusenstamm,5,False
+804,Hilchenbach,1,False
+805,Hildburghausen,3,False
+806,Hilden,9,False
+807,Hildesheim,21,False
+808,Hillesheim,0,True
+809,Hilpoltstein,2,False
+810,Hirschau,0,True
+811,Hirschberg,2,False
+812,Hirschhorn,0,True
+813,Hitzacker,4,False
+814,Hochheim am Main,0,True
+815,Höchstadt an der Aisch,0,True
+816,Höchstädt an der Donau,0,True
+817,Hockenheim,2,False
+818,Hof,10,False
+819,Hofgeismar,0,True
+820,Hofheim am Taunus,0,True
+821,Hofheim,4,False
+822,Hohenberg an der Eger,0,True
+823,Hohenleuben,3,False
+824,Hohenmölsen,0,True
+825,Hohen Neuendorf,0,True
+826,Hohenstein-Ernstthal,5,False
+827,Hohnstein,1,False
+828,Höhr-Grenzhausen,0,True
+829,Hollfeld,5,False
+830,Holzgerlingen,1,False
+831,Holzminden,3,False
+832,Homberg,1,False
+833,Homberg,1,False
+834,Homburg,6,False
+835,Horb am Neckar,0,True
+836,Hornbach,0,True
+837,Horn-Bad Meinberg,0,True
+838,Hornberg,0,True
+839,Hörstel,0,True
+840,Horstmar,3,False
+841,Höxter,0,True
+842,Hoya,1,False
+843,Hoyerswerda,1,False
+844,Hückelhoven,0,True
+845,Hückeswagen,0,True
+846,Hüfingen,0,True
+847,Hünfeld,0,True
+848,Hungen,0,True
+849,Hürth,0,True
+850,Husum,2,False
+851,Ibbenbüren,0,True
+852,Ichenhausen,1,False
+853,Idar-Oberstein,3,False
+854,Idstein,5,False
+855,Illertissen,2,False
+856,Ilmenau,8,False
+857,Ilsenburg,1,False
+858,Ilshofen,0,True
+859,Immenhausen,0,True
+860,Immenstadt im Allgäu,0,True
+861,Ingelfingen,0,True
+862,Ingelheim am Rhein,0,True
+863,Ingolstadt,14,False
+864,Iphofen,2,False
+865,Iserlohn,11,False
+866,Isny im Allgäu,0,True
+867,Isselburg,0,True
+868,Itzehoe,3,False
+869,Jarmen,0,True
+870,Jena,18,False
+871,Jerichow,0,True
+872,Jessen,0,True
+873,Jever,1,False
+874,Joachimsthal,2,False
+875,Johanngeorgenstadt,2,False
+876,Jöhstadt,0,True
+877,Jülich,0,True
+878,Jüterbog,0,True
+879,Kaarst,19,False
+880,Kahla,2,False
+881,Kaisersesch,0,True
+882,Kaiserslautern,16,False
+883,Kalbe,0,True
+884,Kalkar,1,False
+885,Kaltenkirchen,2,False
+886,Kaltennordheim,3,False
+887,Kamen,4,False
+888,Kamenz,1,False
+889,Kamp-Lintfort,6,False
+890,Kandel,3,False
+891,Kandern,0,True
+892,Kappeln,0,True
+893,Karben,4,False
+894,Karlsruhe,96,False
+895,Karlstadt,5,False
+896,Kassel,25,False
+897,Kastellaun,0,True
+898,Katzenelnbogen,0,True
+899,Kaub,0,True
+900,Kaufbeuren,10,False
+901,Kehl,15,False
+902,Kelbra,0,True
+903,Kelheim,4,False
+904,Kelkheim,4,False
+905,Kellinghusen,2,False
+906,Kelsterbach,1,False
+907,Kemberg,0,True
+908,Kemnath,4,False
+909,Kempen,7,False
+910,Kempten im Allgäu,0,True
+911,Kenzingen,2,False
+912,Kerpen,7,False
+913,Ketzin/Havel,0,True
+914,Kevelaer,5,False
+915,Kiel,47,False
+916,Kierspe,2,False
+917,Kindelbrück,0,True
+918,Kirchberg,3,False
+919,Kirchberg an der Jagst,0,True
+920,Kirchberg,3,False
+921,Kirchen,0,True
+922,Kirchenlamitz,2,False
+923,Kirchhain,1,False
+924,Kirchheimbolanden,0,True
+925,Kirchheim unter Teck,0,True
+926,Kirn,1,False
+927,Kirtorf,0,True
+928,Kitzingen,6,False
+929,Kitzscher,1,False
+930,Kleve,7,False
+931,Klingenberg am Main,0,True
+932,Klingenthal/Sa.,0,True
+933,Klötze,0,True
+934,Klütz,0,True
+935,Knittlingen,0,True
+936,Koblenz,21,False
+937,Kohren-Sahlis,2,False
+938,Kolbermoor,0,True
+939,Kölleda,0,True
+940,Königsberg in Bayern,0,True
+941,Königsbrück,0,True
+942,Königsbrunn,0,True
+943,Königsee-Rottenbach,0,True
+944,Königslutter,0,True
+945,Königstein im Taunus,0,True
+946,Königstein,0,True
+947,Königswinter,0,True
+948,Königs Wusterhausen,0,True
+949,Könnern,0,True
+950,Konstanz,14,False
+951,Konz,4,False
+952,Korbach,2,False
+953,Korntal-Münchingen,0,True
+954,Kornwestheim,4,False
+955,Korschenbroich,5,False
+956,Köthen,0,True
+957,Kraichtal,0,True
+958,Krakow am See,0,True
+959,Kranichfeld,3,False
+960,Krautheim,0,True
+961,Krefeld,29,False
+962,Kremmen,2,False
+963,Krempe,1,False
+964,Kreuztal,0,True
+965,Kronach,5,False
+966,Kronberg im Taunus,0,True
+967,Kröpelin,0,True
+968,Kroppenstedt,0,True
+969,Krumbach,1,False
+970,Kühlungsborn,0,True
+971,Kulmbach,9,False
+972,Külsheim,0,True
+973,Künzelsau,0,True
+974,Kupferberg,4,False
+975,Kuppenheim,1,False
+976,Kusel,0,True
+977,Kyllburg,0,True
+978,Kyritz,0,True
+979,Laage,0,True
+980,Laatzen,5,False
+981,Ladenburg,5,False
+982,Lage,6,False
+983,Lahnstein,0,True
+984,Lahr/Schwarzwald,0,True
+985,Laichingen,2,False
+986,Lambrecht,0,True
+987,Lampertheim,2,False
+988,Landau an der Isar,0,True
+989,Landau in der Pfalz,0,True
+990,Landsberg am Lech,0,True
+991,Landsberg,11,False
+992,Landshut,20,False
+993,Landstuhl,1,False
+994,Langelsheim,2,False
+995,Langen,3,False
+996,Langenau,2,False
+997,Langenburg,0,True
+998,Langenfeld,6,False
+999,Langenhagen,4,False
+1000,Langenselbold,2,False
+1001,Langenzenn,7,False
+1002,Langewiesen,1,False
+1003,Lassan,0,True
+1004,Laubach,0,True
+1005,Laucha an der Unstrut,0,True
+1006,Lauchhammer,0,True
+1007,Lauchheim,0,True
+1008,Lauda-Königshofen,0,True
+1009,Lauenburg,1,False
+1010,Lauf an der Pegnitz,0,True
+1011,Laufen,0,True
+1012,Laufenburg,0,True
+1013,Lauffen am Neckar,0,True
+1014,Lauingen,0,True
+1015,Laupheim,3,False
+1016,Lauscha,3,False
+1017,Lauta,1,False
+1018,Lauter-Bernsbach,2,False
+1019,Lauterbach,0,True
+1020,Lauterecken,0,True
+1021,Lauterstein,0,True
+1022,Lebach,1,False
+1023,Lebus,1,False
+1024,Leer,4,False
+1025,Lehesten,2,False
+1026,Lehrte,6,False
+1027,Leichlingen,3,False
+1028,Leimen,5,False
+1029,Leinefelde-Worbis,0,True
+1030,Leinfelden-Echterdingen,4,False
+1031,Leipheim,0,True
+1032,Leipzig,110,False
+1033,Leisnig,2,False
+1034,Lemgo,3,False
+1035,Lengenfeld,3,False
+1036,Lengerich,5,False
+1037,Lennestadt,1,False
+1038,Lenzen,0,True
+1039,Leonberg,7,False
+1040,Leun,0,True
+1041,Leuna,0,True
+1042,Leutenberg,0,True
+1043,Leutershausen,1,False
+1044,Leutkirch im Allgäu,0,True
+1045,Leverkusen,10,False
+1046,Lich,1,False
+1047,Lichtenau,2,False
+1048,Lichtenau,2,False
+1049,Lichtenberg,1,False
+1050,Lichtenfels,4,False
+1051,Lichtenfels,4,False
+1052,Lichtenstein/Sa.,0,True
+1053,Liebenau,0,True
+1054,Liebenwalde,1,False
+1055,Lieberose,1,False
+1056,Liebstadt,3,False
+1057,Limbach-Oberfrohna,7,False
+1058,Limburg an der Lahn,0,True
+1059,Lindau,2,False
+1060,Linden,0,True
+1061,Lindenberg im Allgäu,0,True
+1062,Lindenfels,1,False
+1063,Lindow,0,True
+1064,Lingen,2,False
+1065,Linnich,1,False
+1066,Linz am Rhein,0,True
+1067,Lippstadt,6,False
+1068,Löbau,0,True
+1069,Löffingen,0,True
+1070,Lohmar,0,True
+1071,Lohne,1,False
+1072,Löhne,0,True
+1073,Lohr am Main,0,True
+1074,Loitz,0,True
+1075,Lollar,0,True
+1076,Lommatzsch,2,False
+1077,Löningen,0,True
+1078,Lorch,0,True
+1079,Lorch,0,True
+1080,Lörrach,0,True
+1081,Lorsch,0,True
+1082,Lößnitz,0,True
+1083,Löwenstein,0,True
+1084,Lübbecke,0,True
+1085,Lübben,0,True
+1086,Lübbenau,0,True
+1087,Lübeck,0,True
+1088,Lübtheen,0,True
+1089,Lübz,0,True
+1090,Lüchow,0,True
+1091,Lucka,1,False
+1092,Luckau,0,True
+1093,Luckenwalde,1,False
+1094,Lüdenscheid,0,True
+1095,Lüdinghausen,0,True
+1096,Ludwigsburg,12,False
+1097,Ludwigsfelde,1,False
+1098,Ludwigshafen am Rhein,0,True
+1099,Ludwigslust,1,False
+1100,Ludwigsstadt,0,True
+1101,Lugau/Erzgeb.,0,True
+1102,Lügde,0,True
+1103,Lüneburg,0,True
+1104,Lünen,0,True
+1105,Lunzenau,2,False
+1106,Lütjenburg,0,True
+1107,Lützen,0,True
+1108,Lychen,1,False
+1109,Magdala,3,False
+1110,Magdeburg,17,False
+1111,Mahlberg,0,True
+1112,Mainbernheim,3,False
+1113,Mainburg,1,False
+1114,Maintal,6,False
+1115,Mainz,44,False
+1116,Malchin,0,True
+1117,Malchow,0,True
+1118,Mannheim,79,False
+1119,Manderscheid,0,True
+1120,Mansfeld,0,True
+1121,Marbach am Neckar,0,True
+1122,Marburg,16,False
+1123,Marienberg,3,False
+1124,Marienmünster,0,True
+1125,Markdorf,1,False
+1126,Markgröningen,0,True
+1127,Märkisch Buchholz,0,True
+1128,Markkleeberg,2,False
+1129,Markneukirchen,2,False
+1130,Markranstädt,0,True
+1131,Marktbreit,3,False
+1132,Marktheidenfeld,5,False
+1133,Marktleuthen,1,False
+1134,Marktoberdorf,3,False
+1135,Marktredwitz,0,True
+1136,Marktsteft,0,True
+1137,Marl,1,False
+1138,Marlow,0,True
+1139,Marne,0,True
+1140,Marsberg,1,False
+1141,Maulbronn,0,True
+1142,Maxhütte-Haidhof,0,True
+1143,Mayen,5,False
+1144,Mechernich,0,True
+1145,Meckenheim,1,False
+1146,Medebach,0,True
+1147,Meerane,3,False
+1148,Meerbusch,8,False
+1149,Meersburg,0,True
+1150,Meinerzhagen,1,False
+1151,Meiningen,4,False
+1152,Meisenheim,1,False
+1153,Meißen,0,True
+1154,Meldorf,0,True
+1155,Melle,7,False
+1156,Mellrichstadt,0,True
+1157,Melsungen,0,True
+1158,Memmingen,9,False
+1159,Menden,3,False
+1160,Mendig,1,False
+1161,Mengen,0,True
+1162,Meppen,0,True
+1163,Merkendorf,1,False
+1164,Merseburg,1,False
+1165,Merzig,3,False
+1166,Meschede,3,False
+1167,Meßkirch,0,True
+1168,Meßstetten,0,True
+1169,Mettmann,13,False
+1170,Metzingen,3,False
+1171,Meuselwitz,3,False
+1172,Meyenburg,0,True
+1173,Michelstadt,1,False
+1174,Miesbach,5,False
+1175,Miltenberg,3,False
+1176,Mindelheim,2,False
+1177,Minden,5,False
+1178,Mirow,1,False
+1179,Mittenwalde,0,True
+1180,Mitterteich,1,False
+1181,Mittweida,1,False
+1182,Möckern,0,True
+1183,Möckmühl,0,True
+1184,Moers,9,False
+1185,Mölln,0,True
+1186,Mönchengladbach,0,True
+1187,Monheim am Rhein,0,True
+1188,Monheim,6,False
+1189,Monschau,3,False
+1190,Montabaur,6,False
+1191,Moosburg,3,False
+1192,Mörfelden-Walldorf,0,True
+1193,Moringen,1,False
+1194,Mosbach,1,False
+1195,Mössingen,0,True
+1196,Mücheln,0,True
+1197,Mügeln,0,True
+1198,Mühlacker,0,True
+1199,Mühlberg,0,True
+1200,Mühldorf,0,True
+1201,Mühlhausen,0,True
+1202,Mühlheim am Main,0,True
+1203,Mühlheim an der Donau,0,True
+1204,Mülheim an der Ruhr,0,True
+1205,Mülheim-Kärlich,0,True
+1206,Müllheim,0,True
+1207,Müllrose,0,True
+1208,Münchberg,0,True
+1209,Müncheberg,0,True
+1210,Münchenbernsdorf,0,True
+1211,Munderkingen,1,False
+1212,Munich,0,True
+1213,Münnerstadt,0,True
+1214,Münsingen,0,True
+1215,Munster,2,False
+1216,Münster,0,True
+1217,Münstermaifeld,0,True
+1218,Münzenberg,0,True
+1219,Murrhardt,0,True
+1220,Nabburg,2,False
+1221,Nagold,1,False
+1222,Naila,2,False
+1223,Nassau,0,True
+1224,Nastätten,0,True
+1225,Nauen,0,True
+1226,Naumburg,0,True
+1227,Naumburg,0,True
+1228,Naunhof,4,False
+1229,Nebra,0,True
+1230,Neckarbischofsheim,0,True
+1231,Neckargemünd,0,True
+1232,Neckarsteinach,1,False
+1233,Neckarsulm,0,True
+1234,Neresheim,0,True
+1235,Netphen,1,False
+1236,Nettetal,5,False
+1237,Netzschkau,3,False
+1238,Neu-Anspach,3,False
+1239,Neubrandenburg,6,False
+1240,Neubukow,1,False
+1241,Neubulach,0,True
+1242,Neuburg an der Donau,0,True
+1243,Neudenau,1,False
+1244,Neuenbürg,0,True
+1245,Neuenburg am Rhein,0,True
+1246,Neuenhaus,0,True
+1247,Neuenrade,1,False
+1248,Neuenstadt am Kocher,0,True
+1249,Neuenstein,0,True
+1250,Neuerburg,0,True
+1251,Neuffen,1,False
+1252,Neuhaus am Rennweg,0,True
+1253,Neu-Isenburg,5,False
+1254,Neukalen,0,True
+1255,Neukirchen,8,False
+1256,Neukirchen-Vluyn,6,False
+1257,Neukloster,3,False
+1258,Neumark,3,False
+1259,Neumarkt in der Oberpfalz,0,True
+1260,Neumarkt-Sankt Veit,0,True
+1261,Neumünster,0,True
+1262,Neunburg vorm Wald,0,True
+1263,Neunkirchen,3,False
+1264,Neuötting,0,True
+1265,Neuruppin,1,False
+1266,Neusalza-Spremberg,1,False
+1267,Neusäß,0,True
+1268,Neuss,20,False
+1269,Neustadt an der Aisch,0,True
+1270,Neustadt an der Donau,0,True
+1271,Neustadt an der Waldnaab,0,True
+1272,Neustadt am Kulm,0,True
+1273,Neustadt am Rübenberge,0,True
+1274,Neustadt an der Orla,0,True
+1275,Neustadt an der Weinstraße,0,True
+1276,Neustadt bei Coburg,0,True
+1277,Neustadt,7,False
+1278,Neustadt-Glewe,1,False
+1279,Neustadt,7,False
+1280,Neustadt in Holstein,0,True
+1281,Neustadt in Sachsen,0,True
+1282,Neustrelitz,1,False
+1283,Neutraubling,6,False
+1284,Neu-Ulm,4,False
+1285,Neuwied,8,False
+1286,Nidda,1,False
+1287,Niddatal,0,True
+1288,Nidderau,4,False
+1289,Nideggen,0,True
+1290,Niebüll,0,True
+1291,Niedenstein,0,True
+1292,Niederkassel,1,False
+1293,Niedernhall,0,True
+1294,Nieder-Olm,3,False
+1295,Niederstetten,0,True
+1296,Niederstotzingen,0,True
+1297,Nieheim,0,True
+1298,Niemegk,2,False
+1299,Nienburg,1,False
+1300,Nienburg,1,False
+1301,Nierstein,0,True
+1302,Niesky,1,False
+1303,Nittenau,4,False
+1304,Norden,3,False
+1305,Nordenham,2,False
+1306,Norderney,0,True
+1307,Norderstedt,9,False
+1308,Nordhausen,2,False
+1309,Nordhorn,5,False
+1310,Nördlingen,0,True
+1311,Northeim,2,False
+1312,Nortorf,0,True
+1313,Nossen,2,False
+1314,Nuremberg,0,True
+1315,Nürtingen,0,True
+1316,Oberasbach,18,False
+1317,Oberharz am Brocken,0,True
+1318,Oberhausen,17,False
+1319,Oberhof,2,False
+1320,Oberkirch,2,False
+1321,Oberkochen,0,True
+1322,Oberlungwitz,5,False
+1323,Obermoschel,0,True
+1324,Obernburg am Main,0,True
+1325,Oberndorf am Neckar,0,True
+1326,Obernkirchen,1,False
+1327,Ober-Ramstadt,1,False
+1328,Oberriexingen,0,True
+1329,Obertshausen,1,False
+1330,Oberursel,8,False
+1331,Oberviechtach,2,False
+1332,Oberweißbach/Thür. Wald,0,True
+1333,Oberwesel,0,True
+1334,"Oberwiesenthal, Kurort",0,True
+1335,Ochsenfurt,4,False
+1336,Ochsenhausen,1,False
+1337,Ochtrup,0,True
+1338,Oderberg,1,False
+1339,Oebisfelde-Weferlingen,0,True
+1340,Oederan,4,False
+1341,Oelde,3,False
+1342,Oelsnitz,3,False
+1343,Oelsnitz/Erzgeb.,0,True
+1344,Oer-Erkenschwick,1,False
+1345,Oerlinghausen,4,False
+1346,Oestrich-Winkel,2,False
+1347,Oettingen in Bayern,0,True
+1348,Offenbach am Main,0,True
+1349,Offenburg,11,False
+1350,Ohrdruf,3,False
+1351,Öhringen,0,True
+1352,Olbernhau,1,False
+1353,Olching,5,False
+1354,Oldenburg,0,False
+1355,Oldenburg in Holstein,0,False
+1356,Olfen,0,False
+1357,Olpe,0,False
+1358,Olsberg,0,False
+1359,Oppenau,0,False
+1360,Oppenheim,0,False
+1361,Oranienbaum-Wörlitz,0,False
+1362,Oranienburg,0,False
+1363,Orlamünde,0,False
+1364,Ornbau,0,False
+1365,Ortenberg,0,False
+1366,Ortrand,0,False
+1367,Oschatz,0,False
+1368,Oschersleben,0,False
+1369,Osnabrück,0,False
+1370,Osterburg,0,False
+1371,Osterburken,0,False
+1372,Osterfeld,0,False
+1373,Osterhofen,0,False
+1374,Osterholz-Scharmbeck,0,False
+1375,Osterode am Harz,0,False
+1376,Osterwieck,0,False
+1377,Ostfildern,0,False
+1378,Ostheim vor der Rhön,0,False
+1379,Osthofen,0,False
+1380,Östringen,0,False
+1381,Ostritz,0,False
+1382,Otterberg,0,False
+1383,Otterndorf,0,False
+1384,Ottweiler,0,False
+1385,Overath,0,False
+1386,Owen,0,False
+1387,Paderborn,0,False
+1388,Papenburg,0,False
+1389,Pappenheim,0,False
+1390,Parchim,0,False
+1391,Parsberg,0,False
+1392,Pasewalk,0,False
+1393,Passau,0,False
+1394,Pattensen,0,False
+1395,Pausa-Mühltroff,0,False
+1396,Pegau,0,False
+1397,Pegnitz,0,False
+1398,Peine,0,False
+1399,Peitz,0,False
+1400,Penig,0,False
+1401,Penkun,0,False
+1402,Penzberg,0,False
+1403,Penzlin,0,False
+1404,Perleberg,0,False
+1405,Petershagen,0,False
+1406,Pfaffenhofen an der Ilm,0,False
+1407,Pfarrkirchen,0,False
+1408,Pforzheim,0,False
+1409,Pfreimd,0,False
+1410,Pfullendorf,0,False
+1411,Pfullingen,0,False
+1412,Pfungstadt,0,False
+1413,Philippsburg,0,False
+1414,Pinneberg,0,False
+1415,Pirmasens,0,False
+1416,Pirna,0,False
+1417,Plattling,0,False
+1418,Plau am See,0,False
+1419,Plaue,0,False
+1420,Plauen,0,False
+1421,Plettenberg,0,False
+1422,Pleystein,0,False
+1423,Plochingen,0,False
+1424,Plön,0,False
+1425,Pockau-Lengefeld,0,False
+1426,Pocking,0,False
+1427,Pohlheim,0,False
+1428,Polch,0,False
+1429,Porta Westfalica,0,False
+1430,Pößneck,0,False
+1431,Potsdam,0,False
+1432,Pottenstein,0,False
+1433,Preetz,0,False
+1434,Premnitz,0,False
+1435,Prenzlau,0,False
+1436,Pressath,0,False
+1437,Preußisch Oldendorf,0,False
+1438,Prichsenstadt,0,False
+1439,Pritzwalk,0,False
+1440,Prüm,0,False
+1441,Puchheim,0,False
+1442,Pulheim,0,False
+1443,Pulsnitz,0,False
+1444,Putbus,0,False
+1445,Putlitz,0,False
+1446,Püttlingen,0,False
+1447,Quakenbrück,0,False
+1448,Quedlinburg,0,False
+1449,Querfurt,0,False
+1450,Quickborn,0,False
+1451,Rabenau,0,False
+1452,Radeberg,0,False
+1453,Radebeul,0,False
+1454,Radeburg,0,False
+1455,Radevormwald,0,False
+1456,Radolfzell am Bodensee,0,False
+1457,Raguhn-Jeßnitz,0,False
+1458,Rahden,0,False
+1459,Rain,0,False
+1460,Ramstein-Miesenbach,0,False
+1461,Ranis,0,False
+1462,Ransbach-Baumbach,0,False
+1463,Rastatt,0,False
+1464,Rastenberg,0,False
+1465,Rathenow,0,False
+1466,Ratingen,0,False
+1467,Ratzeburg,0,False
+1468,Rauenberg,0,False
+1469,Raunheim,0,False
+1470,Rauschenberg,0,False
+1471,Ravensburg,0,False
+1472,Ravenstein,0,False
+1473,Recklinghausen,0,False
+1474,Rees,0,False
+1475,Regen,0,False
+1476,Regensburg,0,False
+1477,Regis-Breitingen,0,False
+1478,Rehau,0,False
+1479,Rehburg-Loccum,0,False
+1480,Rehna,0,False
+1481,Reichelsheim,0,False
+1482,Reichenbach,0,False
+1483,Reichenbach,0,False
+1484,Reinbek,0,False
+1485,"Reinfeld, Holstein",0,False
+1486,Reinheim,0,False
+1487,Remagen,0,False
+1488,Remda-Teichel,0,False
+1489,Remscheid,0,False
+1490,Remseck am Neckar,0,False
+1491,Renchen,0,False
+1492,Rendsburg,0,False
+1493,Rennerod,0,False
+1494,Renningen,0,False
+1495,Rerik,0,False
+1496,Rethem,0,False
+1497,Reutlingen,0,False
+1498,Rheda-Wiedenbrück,0,False
+1499,Rhede,0,False
+1500,Rheinau,0,False
+1501,Rheinbach,0,False
+1502,Rheinberg,0,False
+1503,Rheinböllen,0,False
+1504,Rheine,0,False
+1505,Rheinfelden,0,False
+1506,Rheinsberg,0,False
+1507,Rheinstetten,0,False
+1508,Rhens,0,False
+1509,Rhinow,0,False
+1510,Ribnitz-Damgarten,0,False
+1511,Richtenberg,0,False
+1512,Riedenburg,0,False
+1513,Riedlingen,0,False
+1514,Riedstadt,0,False
+1515,Rieneck,0,False
+1516,Riesa,0,False
+1517,Rietberg,0,False
+1518,Rinteln,0,False
+1519,Röbel/Müritz,0,False
+1520,Rochlitz,0,False
+1521,Rockenhausen,0,False
+1522,Rodalben,0,False
+1523,Rodenberg,0,False
+1524,Rödental,0,False
+1525,Rödermark,0,False
+1526,Rodewisch,0,False
+1527,Rodgau,0,False
+1528,Roding,0,False
+1529,Römhild,0,False
+1530,Romrod,0,False
+1531,Ronneburg,0,False
+1532,Ronnenberg,0,False
+1533,Rosbach vor der Höhe,0,False
+1534,Rosenfeld,0,False
+1535,Rosenheim,0,False
+1536,Rosenthal,0,False
+1537,Rösrath,0,False
+1538,Roßleben,0,False
+1539,Roßwein,0,False
+1540,Rostock,0,False
+1541,Rotenburg an der Fulda,0,False
+1542,Rotenburg an der Wümme,0,False
+1543,Roth,0,False
+1544,Rötha,0,False
+1545,Röthenbach an der Pegnitz,0,False
+1546,Rothenburg,0,False
+1547,Rothenburg ob der Tauber,0,False
+1548,Rothenfels,0,False
+1549,Rottenburg am Neckar,0,False
+1550,Rottenburg a.d.Laaber,0,False
+1551,Röttingen,0,False
+1552,Rottweil,0,False
+1553,Rötz,0,False
+1554,Rüdesheim,0,False
+1555,Rudolstadt,0,False
+1556,Ruhla,0,False
+1557,Ruhland,0,False
+1558,Runkel,0,False
+1559,Rüsselsheim,0,False
+1560,Rutesheim,0,False
+1561,Rüthen,0,False
+1562,Saalburg-Ebersdorf,0,False
+1563,Saalfeld,0,False
+1564,Saarbrücken,0,False
+1565,Saarburg,0,False
+1566,Saarlouis,0,False
+1567,Sachsenhagen,0,False
+1568,Sachsenheim,0,False
+1569,Salzgitter,0,False
+1570,Salzkotten,0,False
+1571,Salzwedel,0,False
+1572,Sandau,0,False
+1573,Sandersdorf-Brehna,0,False
+1574,Sangerhausen,0,False
+1575,Sankt Augustin,0,False
+1576,Sankt Goar,0,False
+1577,Sankt Goarshausen,0,False
+1578,Sarstedt,0,False
+1579,Sassenberg,0,False
+1580,Sassnitz,0,False
+1581,Sayda,0,False
+1582,Schalkau,0,False
+1583,Schauenstein,0,False
+1584,Scheer,0,False
+1585,Scheibenberg,0,False
+1586,Scheinfeld,0,False
+1587,Schelklingen,0,False
+1588,Schenefeld,0,False
+1589,Scheßlitz,0,False
+1590,Schieder-Schwalenberg,0,False
+1591,Schifferstadt,0,False
+1592,Schillingsfürst,0,False
+1593,Schiltach,0,False
+1594,Schirgiswalde-Kirschau,0,False
+1595,Schkeuditz,0,False
+1596,Schkölen,0,False
+1597,Schleiden,0,False
+1598,Schleiz,0,False
+1599,Schleswig,0,False
+1600,Schlettau,0,False
+1601,Schleusingen,0,False
+1602,Schlieben,0,False
+1603,Schlitz,0,False
+1604,Schloß Holte-Stukenbrock,0,False
+1605,Schlotheim,0,False
+1606,Schlüchtern,0,False
+1607,Schlüsselfeld,0,False
+1608,Schmalkalden,0,False
+1609,Schmallenberg,0,False
+1610,Schmölln,0,False
+1611,Schnackenburg,0,False
+1612,Schnaittenbach,0,False
+1613,Schneeberg,0,False
+1614,Schneverdingen,0,False
+1615,Schömberg,0,False
+1616,Schönau,0,False
+1617,Schönau im Schwarzwald,0,False
+1618,Schönberg,0,False
+1619,Schönebeck,0,False
+1620,Schöneck/Vogtl.,0,False
+1621,Schönewalde,0,False
+1622,Schongau,0,False
+1623,Schöningen,0,False
+1624,Schönsee,0,False
+1625,Schönwald,0,False
+1626,Schopfheim,0,False
+1627,Schöppenstedt,0,False
+1628,Schorndorf,0,False
+1629,Schortens,0,False
+1630,Schotten,0,False
+1631,Schramberg,0,False
+1632,Schraplau,0,False
+1633,Schriesheim,0,False
+1634,Schrobenhausen,0,False
+1635,Schrozberg,0,False
+1636,Schüttorf,0,False
+1637,Schwaan,0,False
+1638,Schwabach,0,False
+1639,Schwäbisch Gmünd,0,False
+1640,Schwäbisch Hall,0,False
+1641,Schwabmünchen,0,False
+1642,Schwaigern,0,False
+1643,Schwalbach am Taunus,0,False
+1644,Schwalmstadt,0,False
+1645,Schwandorf,0,False
+1646,Schwanebeck,0,False
+1647,Schwarzenbach am Wald,0,False
+1648,Schwarzenbach an der Saale,0,False
+1649,Schwarzenbek,0,False
+1650,Schwarzenberg/Erzgeb.,0,False
+1651,Schwarzenborn,0,False
+1652,Schwarzheide,0,False
+1653,Schwedt,0,False
+1654,Schweich,0,False
+1655,Schweinfurt,0,False
+1656,Schwelm,0,False
+1657,Schwentinental,0,False
+1658,Schwerin,0,False
+1659,Schwerte,0,False
+1660,Schwetzingen,0,False
+1661,Sebnitz,0,False
+1662,Seehausen,0,False
+1663,Seeland,0,False
+1664,Seelow,0,False
+1665,Seelze,0,False
+1666,Seesen,0,False
+1667,Sehnde,0,False
+1668,Seifhennersdorf,0,False
+1669,Selb,0,False
+1670,Selbitz,0,False
+1671,Seligenstadt,0,False
+1672,Selm,0,False
+1673,Selters,0,False
+1674,Senden,0,False
+1675,Sendenhorst,0,False
+1676,Senftenberg,0,False
+1677,Seßlach,0,False
+1678,Siegburg,0,False
+1679,Siegen,0,False
+1680,Sigmaringen,0,False
+1681,Simbach am Inn,0,False
+1682,Simmern,0,False
+1683,Sindelfingen,0,False
+1684,Singen,0,False
+1685,Sinsheim,0,False
+1686,Sinzig,0,False
+1687,Soest,0,False
+1688,Solingen,0,False
+1689,Solms,0,False
+1690,Soltau,0,False
+1691,Sömmerda,0,False
+1692,Sondershausen,0,False
+1693,Sonneberg,0,False
+1694,Sonnewalde,0,False
+1695,Sonthofen,0,False
+1696,Sontra,0,False
+1697,Spaichingen,0,False
+1698,Spalt,0,False
+1699,Spangenberg,0,False
+1700,Speicher,0,False
+1701,Spenge,0,False
+1702,Speyer,0,False
+1703,Spremberg,0,False
+1704,Springe,0,False
+1705,Sprockhövel,0,False
+1706,Stade,0,False
+1707,Stadtallendorf,0,False
+1708,Stadtbergen,0,False
+1709,Stadthagen,0,False
+1710,Stadtilm,0,False
+1711,Stadtlengsfeld,0,False
+1712,Stadtlohn,0,False
+1713,Stadtoldendorf,0,False
+1714,Stadtprozelten,0,False
+1715,Stadtroda,0,False
+1716,Stadtsteinach,0,False
+1717,Stadt Wehlen,0,False
+1718,Starnberg,0,False
+1719,Staßfurt,0,False
+1720,Staufen im Breisgau,0,False
+1721,Staufenberg,0,False
+1722,"Stavenhagen, Reuterstadt",0,False
+1723,St. Blasien,0,False
+1724,Stein,0,False
+1725,Steinach,0,False
+1726,Steinau an der Straße,0,False
+1727,Steinbach-Hallenberg,0,False
+1728,Steinbach,0,False
+1729,Steinfurt,0,False
+1730,Steinheim an der Murr,0,False
+1731,Steinheim,0,False
+1732,Stendal,0,False
+1733,Sternberg,0,False
+1734,St. Ingbert,0,False
+1735,St. Georgen im Schwarzwald,0,False
+1736,Stockach,0,False
+1737,Stolberg,0,False
+1738,Stollberg,0,False
+1739,Stolpen,0,False
+1740,Storkow,0,False
+1741,Stößen,0,False
+1742,Straelen,0,False
+1743,Stralsund,0,False
+1744,Strasburg,0,False
+1745,Straubing,0,False
+1746,Strausberg,0,False
+1747,Strehla,0,False
+1748,Stromberg,0,False
+1749,Stühlingen,0,False
+1750,Stutensee,0,False
+1751,Stuttgart,0,False
+1752,St. Wendel,0,False
+1753,Südliches Anhalt,0,False
+1754,Suhl,0,False
+1755,Sulingen,0,False
+1756,Sulz am Neckar,0,False
+1757,Sulzbach/ Saar,0,False
+1758,Sulzbach-Rosenberg,0,False
+1759,Sulzburg,0,False
+1760,Sundern,0,False
+1761,Süßen,0,False
+1762,Syke,0,False
+1763,Tambach-Dietharz,0,False
+1764,Tangerhütte,0,False
+1765,Tangermünde,0,False
+1766,Tann,0,False
+1767,Tanna,0,False
+1768,Tauberbischofsheim,0,False
+1769,Taucha,0,False
+1770,Taunusstein,0,False
+1771,Tecklenburg,0,False
+1772,Tegernsee,0,False
+1773,Telgte,0,False
+1774,Teltow,0,False
+1775,Templin,0,False
+1776,Tengen,0,False
+1777,Tessin,0,False
+1778,Teterow,0,False
+1779,Tettnang,0,False
+1780,Teublitz,0,False
+1781,Teuchern,0,False
+1782,Teupitz,0,False
+1783,Teuschnitz,0,False
+1784,Thale,0,False
+1785,Thalheim/Erzgeb.,0,False
+1786,Thannhausen,0,False
+1787,Tharandt,0,False
+1788,Themar,0,False
+1789,Thum,0,False
+1790,Tirschenreuth,0,False
+1791,Titisee-Neustadt,0,False
+1792,Tittmoning,0,False
+1793,Todtnau,0,False
+1794,Töging am Inn,0,False
+1795,Tönisvorst,0,False
+1796,Tönning,0,False
+1797,Torgau,0,False
+1798,Torgelow,0,False
+1799,Tornesch,0,False
+1800,Traben-Trarbach,0,False
+1801,Traunreut,0,False
+1802,Traunstein,0,False
+1803,Trebbin,0,False
+1804,Trebsen/Mulde,0,False
+1805,Treffurt,0,False
+1806,Trendelburg,0,False
+1807,Treuchtlingen,0,False
+1808,Treuen,0,False
+1809,Treuenbrietzen,0,False
+1810,Triberg im Schwarzwald,0,False
+1811,Tribsees,0,False
+1812,Trier,0,False
+1813,Triptis,0,False
+1814,Trochtelfingen,0,False
+1815,Troisdorf,0,False
+1816,Trossingen,0,False
+1817,Trostberg,0,False
+1818,Tübingen,0,False
+1819,Tuttlingen,0,False
+1820,Twistringen,0,False
+1821,Übach-Palenberg,0,False
+1822,Überlingen,0,False
+1823,Uebigau-Wahrenbrück,0,False
+1824,Ueckermünde,0,False
+1825,Uelzen,0,False
+1826,Uetersen,0,False
+1827,Uffenheim,0,False
+1828,Uhingen,0,False
+1829,Ulm,0,False
+1830,Ulmen,0,False
+1831,Ulrichstein,0,False
+1832,Ummerstadt,0,False
+1833,Unkel,0,False
+1834,Unna,0,False
+1835,Unterschleißheim,0,False
+1836,Usedom,0,False
+1837,Usingen,0,False
+1838,Uslar,0,False
+1839,Vacha,0,False
+1840,Vaihingen an der Enz,0,False
+1841,Vallendar,0,False
+1842,Varel,0,False
+1843,Vechta,0,False
+1844,Velbert,0,False
+1845,Velburg,0,False
+1846,Velden,0,False
+1847,Velen,0,False
+1848,Vellberg,0,False
+1849,Vellmar,0,False
+1850,Velten,0,False
+1851,Verden,0,False
+1852,Veringenstadt,0,False
+1853,Verl,0,False
+1854,Versmold,0,False
+1855,Vetschau/Spreewald,0,False
+1856,Viechtach,0,False
+1857,Viernheim,0,False
+1858,Viersen,0,False
+1859,Villingen-Schwenningen,0,False
+1860,Vilsbiburg,0,False
+1861,Vilseck,0,False
+1862,Vilshofen,0,False
+1863,Visselhövede,0,False
+1864,Vlotho,0,False
+1865,Voerde,0,False
+1866,Vogtsburg im Kaiserstuhl,0,False
+1867,Vohburg an der Donau,0,False
+1868,Vohenstrauß,0,False
+1869,Vöhrenbach,0,False
+1870,Vöhringen,0,False
+1871,Volkach,0,False
+1872,Völklingen,0,False
+1873,Volkmarsen,0,False
+1874,Vreden,0,False
+1875,Wachenheim an der Weinstraße,0,False
+1876,Wächtersbach,0,False
+1877,Wadern,0,False
+1878,Waghäusel,0,False
+1879,Wahlstedt,0,False
+1880,Waiblingen,0,False
+1881,Waibstadt,0,False
+1882,Waischenfeld,0,False
+1883,Waldbröl,0,False
+1884,Waldeck,0,False
+1885,Waldenbuch,0,False
+1886,Waldenburg,0,False
+1887,Waldenburg,0,False
+1888,Waldershof,0,False
+1889,Waldheim,0,False
+1890,Waldkappel,0,False
+1891,Waldkirch,0,False
+1892,Waldkirchen,0,False
+1893,Waldkraiburg,0,False
+1894,Waldmünchen,0,False
+1895,Waldsassen,0,False
+1896,Waldshut-Tiengen,0,False
+1897,Walldorf,0,False
+1898,Walldürn,0,False
+1899,Wallenfels,0,False
+1900,Walsrode,0,False
+1901,Waltershausen,0,False
+1902,Waltrop,0,False
+1903,Wanfried,0,False
+1904,Wangen im Allgäu,0,False
+1905,Wanzleben-Börde,0,False
+1906,Warburg,0,False
+1907,Waren,0,False
+1908,Warendorf,0,False
+1909,Warin,0,False
+1910,Warstein,0,False
+1911,Wassenberg,0,False
+1912,Wasserburg am Inn,0,False
+1913,Wassertrüdingen,0,False
+1914,Wasungen,0,False
+1915,Wedel,0,False
+1916,Weener,0,False
+1917,Wegberg,0,False
+1918,Wegeleben,0,False
+1919,Wehr,0,False
+1920,Weida,0,False
+1921,Weiden in der Oberpfalz,0,False
+1922,Weikersheim,0,False
+1923,Weil am Rhein,0,False
+1924,Weilburg,0,False
+1925,Weil der Stadt,0,False
+1926,Weilheim an der Teck,0,False
+1927,Weilheim in Oberbayern,0,False
+1928,Weimar,0,False
+1929,Weingarten,0,False
+1930,Weinheim,0,False
+1931,Weinsberg,0,False
+1932,Weinstadt,0,False
+1933,Weismain,0,False
+1934,Weißenberg,0,False
+1935,Weißenburg in Bayern,0,False
+1936,Weißenfels,0,False
+1937,Weißenhorn,0,False
+1938,Weißensee,0,False
+1939,Weißenstadt,0,False
+1940,Weißenthurm,0,False
+1941,Weißwasser,0,False
+1942,Weiterstadt,0,False
+1943,Welzheim,0,False
+1944,Welzow,0,False
+1945,Wemding,0,False
+1946,Wendlingen am Neckar,0,False
+1947,Werben,0,False
+1948,Werdau,0,False
+1949,Werder,0,False
+1950,Werdohl,0,False
+1951,Werl,0,False
+1952,Wermelskirchen,0,False
+1953,Wernau,0,False
+1954,Werne,0,False
+1955,Werneuchen,0,False
+1956,Wernigerode,0,False
+1957,Wertheim,0,False
+1958,Werther,0,False
+1959,Wertingen,0,False
+1960,Wesel,0,False
+1961,Wesenberg,0,False
+1962,Wesselburen,0,False
+1963,Wesseling,0,False
+1964,Westerburg,0,False
+1965,Westerstede,0,False
+1966,Wetter,0,False
+1967,Wetter,0,False
+1968,Wettin-Löbejün,0,False
+1969,Wetzlar,0,False
+1970,Widdern,0,False
+1971,Wiehe,0,False
+1972,Wiehl,0,False
+1973,Wiesbaden,0,False
+1974,Wiesensteig,0,False
+1975,Wiesloch,0,False
+1976,Wiesmoor,0,False
+1977,Wildau,0,False
+1978,Wildberg,0,False
+1979,Wildenfels,0,False
+1980,Wildeshausen,0,False
+1981,Wilhelmshaven,0,False
+1982,Wilkau-Haßlau,0,False
+1983,Willebadessen,0,False
+1984,Willich,0,False
+1985,Wilsdruff,0,False
+1986,Wilster,0,False
+1987,Wilthen,0,False
+1988,Windischeschenbach,0,False
+1989,Windsbach,0,False
+1990,Winnenden,0,False
+1991,Winsen,0,False
+1992,Winterberg,0,False
+1993,Wipperfürth,0,False
+1994,Wirges,0,False
+1995,Wismar,0,False
+1996,Wissen,0,False
+1997,Witten,0,False
+1998,Wittenberg,0,False
+1999,Wittenberge,0,False
+2000,Wittenburg,0,False
+2001,Wittichenau,0,False
+2002,Wittlich,0,False
+2003,Wittingen,0,False
+2004,Wittmund,0,False
+2005,Wittstock/Dosse,0,False
+2006,Witzenhausen,0,False
+2007,Woldegk,0,False
+2008,Wolfach,0,False
+2009,Wolfenbüttel,0,False
+2010,Wolfhagen,0,False
+2011,Wolframs-Eschenbach,0,False
+2012,Wolfratshausen,0,False
+2013,Wolfsburg,0,False
+2014,Wolfstein,0,False
+2015,Wolgast,0,False
+2016,Wolkenstein,0,False
+2017,Wolmirstedt,0,False
+2018,Worms,0,False
+2019,Wörrstadt,0,False
+2020,Wörth am Rhein,0,False
+2021,Wörth an der Donau,0,False
+2022,Wörth am Main,0,False
+2023,Wriezen,0,False
+2024,Wülfrath,0,False
+2025,Wunsiedel,0,False
+2026,Wunstorf,0,False
+2027,Wuppertal,0,False
+2028,Würselen,0,False
+2029,Wurzbach,0,False
+2030,Würzburg,0,False
+2031,Wurzen,0,False
+2032,Wustrow,0,False
+2033,Wyk auf Föhr,0,False
+2034,Xanten,0,False
+2035,Zahna-Elster,0,False
+2036,Zarrentin am Schaalsee,0,False
+2037,Zehdenick,0,False
+2038,Zeil am Main,0,False
+2039,Zeitz,0,False
+2040,Zell am Harmersbach,0,False
+2041,Zell im Wiesental,0,False
+2042,Zell,0,False
+2043,Zella-Mehlis,0,False
+2044,Zerbst,0,False
