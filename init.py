@@ -9,7 +9,17 @@ import tarfile
 import numpy as np
 
 # To draw the images
-import matplotlib.pyplot as plt 
+import matplotlib.pyplot as plt
+
+import pickle
+
+def pydump(obj, filename):
+    with open(filename, 'wb') as f:
+        pickle.dump(obj, f)
+
+def pyload(filename):
+    with open(filename, 'rb') as f:
+        return pickle.load(f)
 
 # LOAD TRAINING DATA
 tar_file = tarfile.open("cifar-10-python.tar.gz", 'r:gz')
