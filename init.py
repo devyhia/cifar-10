@@ -63,3 +63,80 @@ test_labels = np.expand_dims(test_labels, 1)
 # Helps with writing functions!
 msg = lambda x: print("%s ... " % x, end="")
 done = lambda: print("done.")
+
+# Threading facility
+import sys
+IS_PY2 = sys.version_info < (3, 0)
+
+if IS_PY2:
+    from Queue import Queue
+else:
+    from queue import Queue
+
+from threading import Thread
+
+
+class Worker(Thread):
+    """ Thread executing tasks from a given tasks queue """
+    def __init__(self, tasks):
+        Thread.__init__(self)
+        self.tasks = tasks
+        self.daemon = True
+        self.start()
+
+    def run(self):
+        while True:
+            func, args, kargs = self.tasks.get()
+            try:
+                func(*args, **kargs)
+            except Exception as e:
+                # An exception happened in this thread
+                print(e)
+            finally:
+                # Mark this task as done, whether an exception happened or not
+                self.tasks.task_done()
+
+
+class ThreadPool:
+    """ Pool of threads consuming tasks from a queue """
+    def __init__(self, num_threads):
+        self.tasks = Queue(num_threads)
+        for _ in range(num_threads):
+            Worker(self.tasks)
+
+    def add_task(self, func, *args, **kargs):
+        """ Add a task to the queue """
+        self.tasks.put((func, args, kargs))
+
+    def map(self, func, args_list):
+        """ Add a list of tasks to the queue """
+        for args in args_list:
+            self.add_task(func, args)
+
+    def wait_completion(self):
+        """ Wait for completion of all the tasks in the queue """
+        self.tasks.join()
+
+class Schneller():
+    def f(self, func, key, results, total, *args, **kwargs):
+        results[key] = func(*args, **kwargs)
+        print("\rCompleted: {} out of {}.".format(len(results.keys()), total), end="")
+
+    def __init__(self, func, args_list, slice=1, num_threads=4):
+        self.slice = slice
+        self.func = func
+        self.args_list = args_list
+        self.results = {}
+        self.thread_pool = ThreadPool(num_threads)
+
+        if len(self.args_list) % self.slice is not 0:
+            raise "Length of the contents array should be divisible by the provided slice."
+
+        self.total = int(len(self.args_list)/self.slice)
+
+    def compute(self):
+        for i in range(self.total):
+            self.thread_pool.add_task(self.f, self.func, i, self.results, self.total, self.args_list[i*self.slice:(i+1)*self.slice])
+        self.thread_pool.wait_completion()
+
+        return np.vstack(list(map(lambda i: self.results[i], range(self.total))))
